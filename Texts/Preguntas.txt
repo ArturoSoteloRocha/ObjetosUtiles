@@ -1,0 +1,18 @@
+T-Nintendo
+
+P-¿Quién es el personaje favorito de nintendo?
+R-Mario-50.7-80.7
+R-Kirby-100-200
+R-Yoshi-20-10
+
+P-¿Cuales son los juegos mas vendidos?
+R-Zeldas-250.7-180.7
+R-Marios-120-100
+R-Kirbys-120-100
+
+T-Comidas
+
+P-¿Comidas tipicas de Chile?
+R-Panchos-250.7-180.7
+R-Tacos-1-2
+R-Pizza-120-100
