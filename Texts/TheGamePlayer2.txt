@@ -2,10 +2,10 @@ P-Estados de mexico2
 R-Nuevo Leon2|1
 R-Cuba2|0
 R-Colombia2|0
-R-Rusia2|0
+R-Rusia2|1
 
 P-Comidas de EU2
-R-Tacos2|0
+R-Tacos2|1
 R-Sopes2|0
 R-Tamales2|0
 R-Papas2|1
@@ -14,4 +14,4 @@ P-Dias del mes 2
 R-Febrero2 30|0
 R-Septiembre2 31|0
 R-Octubre2 31|1
-R-Diciembre2 30|0
+R-Diciembre2 30|1

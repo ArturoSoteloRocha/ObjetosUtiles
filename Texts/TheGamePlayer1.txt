@@ -1,17 +1,17 @@
 P-Estados de mexico
 R-Nuevo Leon|1
 R-Cuba|0
-R-Colombia|0
+R-Colombia|1
 R-Rusia|0
 
 P-Comidas de EU
-R-Tacos|0
+R-Tacos|1
 R-Sopes|0
 R-Tamales|0
 R-Papas|1
 
 P-Dias del mes
 R-Febrero 30|0
-R-Septiembre 31|0
+R-Septiembre 31|1
 R-Octubre 31|1
 R-Diciembre 30|0
