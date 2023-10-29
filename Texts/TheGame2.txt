@@ -1,0 +1,11 @@
+T-Comida gratis a partir de las 11pm
+R-Paris|1
+R-Alemania|0
+R-Roma|0
+R-USA|0
+
+T-Solo se puede beber despues de los 22 años
+R-China|0
+R-Russia|0
+R-Japon|1
+R-Peru|0
