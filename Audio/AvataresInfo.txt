@@ -45,3 +45,4 @@ avtr_01608fe0-3ee8-4af4-b89d-2bf9a6453ef5|Dragon
 avtr_777e9744-3f9e-4ed0-aacb-9854024ef758|Squirl
 avtr_b38d33e1-e94e-4394-9559-ea1de0cf51b5|MiniUkon
 avtr_3e82a029-e78e-47c8-8427-309fb1656b74|Invisible
+avtr_ae7ede3d-01e1-4a4b-b9da-1a1160b6ad8c|Cuervo
